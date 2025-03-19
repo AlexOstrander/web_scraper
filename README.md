@@ -1,6 +1,4 @@
-Web Scraper
-
-- **Features:**
+**Features:**
 
 1. **Robust Error Handling**
 - Retry mechanism with exponential backoff
