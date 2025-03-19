@@ -1,4 +1,4 @@
-- Web Scraper
+Web Scraper
 
 - **Features:**
 
